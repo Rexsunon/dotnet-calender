@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EvidenceRex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EvidenceRex\\.nuget\\packages"
+    ]
+  }
+}
